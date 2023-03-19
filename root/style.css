@@ -9,8 +9,8 @@ ul {
 li {
   background-color: #004661;
   padding: 10px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 0px;
+  margin-right: 0px;
   margin-bottom: 25px;
   border: 7px #D4FF00;
   border-style: outset;
@@ -19,8 +19,8 @@ li {
 li:hover {
   background-color: #004661;
   padding: 10px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 0px;
+  margin-right: 0px;
   margin-bottom: 25px;
   border: 7px #D4FF00;
   border-style: inset;
