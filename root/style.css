@@ -40,3 +40,15 @@ a:hover {
 body {
   text-align: center;
 }
+
+.index-page {
+  background-color: #3dd6d0;
+}
+
+.page-two {
+  background-color: #71f79f;
+}
+
+.page-three {
+  background-color: #15b097;
+}
