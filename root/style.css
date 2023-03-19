@@ -36,3 +36,7 @@ a:hover {
   background-color: #D4FF00;  
   color: black;
 }
+
+img {
+  text-align="center"
+}
