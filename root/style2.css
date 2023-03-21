@@ -1,4 +1,4 @@
-#greeting {
+marquee {
     background: -webkit-linear-gradient(left, violet, indigo, blue, green, yellow, orange, red);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
