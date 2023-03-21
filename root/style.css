@@ -53,3 +53,25 @@ body {
 .page-three {
   background-color: #15b097;
 }
+
+.page2h4 {
+  margin-top: 40px;
+  margin-bottom: 15px;
+}
+
+.paragraph2 {
+  margin-top: 30px;
+  margin-bottom: 6px;
+}
+
+.picturelink:hover {
+  background-color: transparent;
+}
+
+.logo {
+  border: 7px groove #cc0066;
+}
+
+.logo:hover {
+  border: 7px ridge #ff0066;
+}
